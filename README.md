@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**WojtekZb/WojtekZb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wojtek, a software engineering student based in the Netherlands.
 
-Here are some ideas to get you started:
+I love working on the backend — the logic behind everything is what gets me going. That said, I don't mind working on the frontend, and it's something I'm actively learning more about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Tech
+
+- Java
+- Flutter / Dart
+- C#, .NET (ASP.NET MVC, Entity Framework)
+- SQL
+- HTML/CSS
+
+---
+
+### A Bit About Me
+
+- 🐶 I have a dog
+- 🏂 I love snowboarding, but not winter
+- 💡 I like bringing my own ideas to life through code
